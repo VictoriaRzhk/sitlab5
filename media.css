@@ -1,0 +1,211 @@
+@media(max-width:1200px){
+    .page-welcome .welcome{
+        margin: 0 30px;
+        width: 95%;
+    }
+    .ourservices .wrapper .col .box{
+       width: 300px;
+    }
+    .whychosseus .wrapper .col .box{
+        width: 200px;
+        height: 200px;
+    }
+    .request .wrapper .col .box .block2 {
+       width: 20%;
+    }
+    .request .wrapper .col .box .block2 textarea{
+        width: 250px;
+    }
+    .request .wrapper .col .box .block3 textarea{
+        width: 250px;
+    }
+    .featured-project .wrapper .col .box p{
+        width: 275px;
+        width: 95%;
+    }
+    .latestfromnews .wrapper .col .box{
+	    width: 260px;
+    }
+    .footer .wrapper .col .box .partimage .partimagetop img{
+        height: 45px;
+        width: 45px;
+    }
+    .footer .wrapper .col .box .partimage .partimagebottom img{
+        height: 45px;
+        width: auto;
+    }
+    .footer .wrapper .col .box{
+        margin: 15px auto;
+    }
+    .footer .wrapper .col .box .gallery{
+        margin-top: 10px;
+    }
+    .footer .wrapper .col .box .contactus{
+        margin-top: 10px; ;
+    }
+}
+@media(max-width:900px){
+    .page-header-top .wrapper .top-part li{
+      font-size: 13px;
+      margin: 5px;
+    }
+    .page-header-top .top-part-icon{
+	    display: none;
+    }
+    .page-header .menu li a {
+        font-size: 16px;
+    }
+    .page-welcome .welcome{
+        margin: 0 30px;
+        width: 92%;
+    }
+    .ourservices .wrapper .col .box{
+        width: 200px;
+    }
+    .whychosseus .wrapper .col .box{
+        width: 150px;
+        height: 150px;
+    }
+    .request .wrapper .block1{
+        padding: 25px 0; 
+        width: 250px;
+    }
+    .request .wrapper .col .box .block2 textarea{
+        width: 175px;
+    }
+    .request .wrapper .col .box .block3 textarea{
+        width: 175px;
+    }  
+    .request .wrapper .block3 a{
+        width: 50px;    
+    }
+    .latestfromnews .wrapper .col .box{
+	    width: 200px;
+    }
+    .businesspartners .wrapper .col .box .icon{
+        height: 75px;
+    }
+    .signup .wrapper .box input{
+        width: 200px;
+    }
+    .footer{
+        display: none;
+    }
+    .footerforverticaltablet{
+        display: block;
+        height: 200%;
+    }
+    .footerforverticaltablet .wrapper .col .box{
+        width: 45%;
+    }
+}
+@media(max-width:600px){
+   .page-header-top .wrapper .top-part{
+       height: 150px;
+       display: block;
+    }
+   .page-header .wrapper .menu .dekstop{
+       display: none;
+    }
+    .page-header .menu .mobile a{
+        display: block;
+    }
+    .page-welcome .welcome{
+        margin: 0 30px;
+        width: 85%;
+    }
+    .page-welcome .welcome .text .text-welcome{
+        font-size: 25px;    
+    }
+    .page-welcome .welcome .text .text-tagline{
+        font-size: 18px;
+    }
+    .page-welcome .welcome .text .buttons .button{
+        padding: 10px;
+        font-size: 12px;
+    }
+    .ourservices .wrapper .col{
+        display: block;
+    }
+    .ourservices .wrapper .col .box{
+        margin: 15px 0;
+        width: 100%;
+    }
+    .whychosseus .wrapper .col{
+        display: block;
+    }
+    .whychosseus .wrapper .col .box{
+        margin: 20px auto;
+        width: 200px;
+        height: 200px;
+    }
+    .request .wrapper .col{
+        display: block;
+    }
+    .request .wrapper .col .box .block2{
+        padding: 0;
+    }
+    .request .wrapper .col .box .block3{
+        padding: 0;
+        padding-bottom: 10px;
+    }
+    .request .wrapper .col .box .block2 textarea{
+        width: 250px;
+    }
+    .request .wrapper .col .box .block3 textarea{
+        width: 250px;
+    } 
+    .featured-project .wrapper .col{
+        display: block;
+    }
+    .featured-project .wrapper .col .box{
+        width: 100%;
+        margin: 20px 0;
+    }
+    .latestfromnews .wrapper .col{
+        display: block;
+    }
+    .latestfromnews .wrapper .col .box{
+        width: 90%;
+        margin: 20px auto;
+    }
+    .businesspartners .wrapper .col{
+        padding: 0;
+    }
+    .businesspartners .wrapper .col .box .icon{
+        height: 45px;
+    }
+    .testimonials .wrapper .col{
+        display: block;
+    }
+    .testimonials .wrapper .col .box{
+        width: 90%;
+    }
+    .testimonials .wrapper .col .box .containertext2 h1{
+        text-align: left;
+    }
+    .testimonials .wrapper .col .box .containertext2 h2{
+        text-align: left;
+    }
+    .testimonials .wrapper .col .box .containertext2 h3{
+        text-align: left;
+    }
+    .signup .wrapper .box .button{
+        width: 90px;
+    }
+    .footerforverticaltablet{
+        display: none;
+    }
+    .footer{
+        display: block;
+        height: 700px;
+    }
+    .footer .wrapper .col{
+        display: block;
+    }
+    .footer .wrapper .col .box{
+        width: 70%;
+        margin: 0 auto;
+        padding: 0;
+    }
+}
